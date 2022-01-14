@@ -115,7 +115,6 @@ public class Visit extends BaseEntity {
 	}
 
 	public RecoveryRoom getRecoveryRoom() {
-		// To be implemented
 		return null;
 	}
 
